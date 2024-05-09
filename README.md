@@ -9,6 +9,7 @@ To run the application you should follow these steps
 Make sure you are in main catalog **picipolo_DASHboard**
 
 Run app by
+
 `streamlit run app.py`
 
 # Loading data
