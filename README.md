@@ -9,7 +9,7 @@ To run the application you should follow these steps
 Make sure you are in main catalog **picipolo_DASHboard**
 
 Run app by
-`streamlit run app.py``
+`streamlit run app.py`
 
 # Loading data
 
@@ -20,7 +20,9 @@ For further explaination you should click on **Click here to see detailed explan
 ![image](https://github.com/Szymon-Gut/picipolo_DASHboard/assets/72514490/5bc49b60-b737-4ee0-8839-0f2098b56d39)
 
 # Overwiew of the dashboard
-To see the presentation about the dashboard feel free to view it on YouTube: [link](https://www.youtube.com/watch?v=iwB44FcTwOs&ab_channel=HubertBujakowski). The presentation unfortunatelly is prepared in polish, but you can visit it anyway to see which analysis are presented on each page.
+To see the presentation about the dashboard feel free to view it on YouTube: [link to video](https://www.youtube.com/watch?v=iwB44FcTwOs&ab_channel=HubertBujakowski). 
+
+The presentation unfortunatelly is prepared in polish, but you can visit it anyway to see which analysis are presented on each page.
 
 ## Authors:
 - [Mateusz Borowski](https://github.com/boro128)
